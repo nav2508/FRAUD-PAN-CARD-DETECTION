@@ -3,4 +3,4 @@ cd
 conda create --name myenv
 conda activate myenv
 python -m pip install -r requirements.txt
-python app.pu
+python app.py
